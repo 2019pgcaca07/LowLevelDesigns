@@ -1,0 +1,34 @@
+# Ignore build files
+/target/
+/out/
+/bin/
+
+# Ignore dependency directories
+/.mvn/
+/.idea/
+/.vscode/
+
+# Ignore IntelliJ-specific files
+/shelf/
+/workspace.xml
+
+# Ignore compiled class files
+*.class
+
+# Ignore logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Ignore Maven and Gradle files
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+*.iml
+.gradle/
+build/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
